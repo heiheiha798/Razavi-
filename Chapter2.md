@@ -10,7 +10,7 @@
 
 #### $MOSFET$ 基本介绍
 
-<img src="https://raw.githubusercontent.com/heiheiha798/Razavi-Notes/main/img/image-20240709000742746.png" style="zoom:80%;">
+<img src="https://raw.githubusercontent.com/heiheiha798/Razavi-Notes/main/img/image-20240709000742746.png" style="zoom:60%;">
 
 $Metal-Oxide-Semiconductor\ Field-Effect\ Transistor$
 
@@ -201,7 +201,7 @@ $$
 
 当 $MOSFETs$ 偏置在饱和区时， 小信号 $\delta V=V_{GS}$ 引起的漏电流增量为 $g_mV_{GS}$ 可以等效为一个压控流源
 
-<img src="https://raw.githubusercontent.com/heiheiha798/Razavi-Notes/main/img/image-20240709191527463.png" style="zoom:70%;">
+<img src="https://raw.githubusercontent.com/heiheiha798/Razavi-Notes/main/img/image-20240709210313053.png" style="zoom:40%;">
 
 考虑沟道长度调制效应后 $I_D=\frac12 \mu_nC_{ox}\frac{W}{L}(V_{GS}-V_{TH})^2(1+\lambda V_{DS})$
 
@@ -241,4 +241,4 @@ $$
 
 综合电容和各种二级效应，可以得到完整的 $MOS$ 小信号模型
 
-<img src="https://raw.githubusercontent.com/heiheiha798/Razavi-Notes/main/img/image-20240709201446110.png" style="zoom:70%;">
+<img src="https://raw.githubusercontent.com/heiheiha798/Razavi-Notes/main/img/image-20240709210534461.png" style="zoom:40%;">
